@@ -1,0 +1,1396 @@
+{
+  "performVersionCheck": true,
+  "origins": {
+    "origins-classes:nitwit": {
+      "enabled": true
+    },
+    "origins:enderian": {
+      "enabled": true,
+      "origins:throw_ender_pearl": true,
+      "origins:water_vulnerability": true,
+      "origins:pumpkin_hate": true,
+      "origins:extra_reach": true,
+      "origins:ender_particles": true,
+      "origins:damage_from_potions": true
+    },
+    "origins:feline": {
+      "enabled": true,
+      "origins:fall_immunity": true,
+      "origins:sprint_jump": true,
+      "origins:velvet_paws": true,
+      "origins:nine_lives": true,
+      "origins:weak_arms": true,
+      "origins:scare_creepers": true,
+      "origins:cat_vision": true
+    },
+    "origins-classes:warrior": {
+      "enabled": true,
+      "origins-classes:more_attack_damage": true,
+      "origins-classes:less_shield_slowdown": true
+    },
+    "origins:elytrian": {
+      "enabled": true,
+      "origins:elytra": true,
+      "origins:launch_into_air": true,
+      "origins:aerial_combatant": true,
+      "origins:light_armor": true,
+      "origins:claustrophobia": true,
+      "origins:more_kinetic_damage": true
+    },
+    "dragon_origins:green_dragon_origin": {
+      "enabled": true,
+      "dragon_origins:good_neighboer": true,
+      "dragon_origins:green": true,
+      "dragon_origins:elytra": true,
+      "dragon_origins:white_teeth": true,
+      "dragon_origins:vegie": true,
+      "dragon_origins:food": true,
+      "dragon_origins:size": true,
+      "dragon_origins:emerald": true,
+      "dragon_origins:droar": true,
+      "dragon_origins:advancement": true
+    },
+    "dragon_origins:cookie": {
+      "enabled": true,
+      "dragon_origins:canibalism": true,
+      "dragon_origins:spillage": true,
+      "dragon_origins:advancement": true
+    },
+    "dragon_origins:kraken": {
+      "enabled": true,
+      "dragon_origins:kraken/bigger_kraken": true,
+      "dragon_origins:kraken/tentacles": true,
+      "dragon_origins:kraken/grapple": true,
+      "dragon_origins:kraken/grappledesc": true,
+      "dragon_origins:kraken/grappletp": true,
+      "origins:air_from_potions": true,
+      "origins:aqua_affinity": true,
+      "origins:more_exhaustion": true,
+      "origins:carnivore": true,
+      "origins:water_vision": true,
+      "origins:conduit_power_on_land": true,
+      "origins:like_water": true,
+      "origins:water_breathing": true,
+      "dragon_origins:advancement": true
+    },
+    "dragon_origins:lorax": {
+      "enabled": true,
+      "dragon_origins:lorax/phase": true,
+      "dragon_origins:lorax/no_tree_chopping": true,
+      "dragon_origins:lorax/size": true,
+      "dragon_origins:lorax/friendly": true,
+      "dragon_origins:lorax/marshmellow": true,
+      "dragon_origins:lorax/food": true,
+      "dragon_origins:advancement": true
+    },
+    "dragon_origins:mini": {
+      "enabled": true,
+      "dragon_origins:speed": true,
+      "dragon_origins:size2": true,
+      "origins:fall_immunity": true,
+      "origins:climbing": true,
+      "dragon_origins:haste": true,
+      "origins:no_shield": true,
+      "dragon_origins:less_hp": true,
+      "dragon_origins:speedswim": true,
+      "dragon_origins:speed_boost": true,
+      "origins:carnivore": true,
+      "dragon_origins:slow": true,
+      "dragon_origins:jump_boost": true,
+      "dragon_origins:advancement": true
+    },
+    "origins-classes:explorer": {
+      "enabled": true,
+      "origins-classes:explorer_kit": true,
+      "origins-classes:no_sprint_exhaustion": true
+    },
+    "origins:phantom": {
+      "enabled": true,
+      "origins:phantomize": true,
+      "origins:translucent": true,
+      "origins:phasing": true,
+      "origins:invisibility": true,
+      "origins:burn_in_daylight": true,
+      "origins:hunger_over_time": true,
+      "origins:fragile": true,
+      "origins:phantomize_overlay": true
+    },
+    "dragon_origins:test": {
+      "enabled": true,
+      "dragon_origins:test/invis_temp": true,
+      "dragon_origins:test/heal": true,
+      "dragon_origins:test/lightning": true,
+      "dragon_origins:advancement": true
+    },
+    "origins-classes:beastmaster": {
+      "enabled": true,
+      "origins-classes:tamed_animal_boost": true,
+      "origins-classes:tamed_potion_diffusal": true
+    },
+    "origins-classes:merchant": {
+      "enabled": true,
+      "origins-classes:trade_availability": true,
+      "origins-classes:rare_wandering_loot": true
+    },
+    "origins-classes:rancher": {
+      "enabled": true,
+      "origins-classes:twin_breeding": true,
+      "origins-classes:more_animal_loot": true
+    },
+    "origins:blazeborn": {
+      "enabled": true,
+      "origins:fire_immunity": true,
+      "origins:nether_spawn": true,
+      "origins:burning_wrath": true,
+      "origins:hotblooded": true,
+      "origins:water_vulnerability": true,
+      "origins:flame_particles": true,
+      "origins:damage_from_snowballs": true,
+      "origins:damage_from_potions": true
+    },
+    "origins:avian": {
+      "enabled": true,
+      "origins:slow_falling": true,
+      "origins:fresh_air": true,
+      "origins:like_air": true,
+      "origins:tailwind": true,
+      "origins:lay_eggs": true,
+      "origins:vegetarian": true
+    },
+    "origins-classes:archer": {
+      "enabled": true,
+      "origins-classes:no_projectile_divergence": true,
+      "origins-classes:less_bow_slowdown": true
+    },
+    "origins-classes:farmer": {
+      "enabled": true,
+      "origins-classes:more_crop_drops": true,
+      "origins-classes:better_bone_meal": true
+    },
+    "dragon_origins:cyborg": {
+      "enabled": true,
+      "dragon_origins:metal_skin": true,
+      "dragon_origins:water": true,
+      "dragon_origins:xtrajump": true,
+      "dragon_origins:fire_immunity": true,
+      "dragon_origins:no_armor": true,
+      "dragon_origins:fall_dam": true,
+      "dragon_origins:night_v": true,
+      "dragon_origins:advancement": true
+    },
+    "origins-classes:miner": {
+      "enabled": true,
+      "origins-classes:more_stone_break_speed": true,
+      "origins-classes:no_mining_exhaustion": true
+    },
+    "dragon_origins:panda": {
+      "enabled": true,
+      "dragon_origins:panda/food": true,
+      "dragon_origins:panda/food_dis": true,
+      "origins:vegetarian": true,
+      "dragon_origins:advancement": true
+    },
+    "dragon_origins:red_dragon": {
+      "enabled": true,
+      "origins:fire_immunity": true,
+      "origins:nether_spawn": true,
+      "origins:burning_wrath": true,
+      "origins:water_vulnerability": true,
+      "origins:hotblooded": true,
+      "dragon_origins:freeze": true,
+      "dragon_origins:size69": true,
+      "dragon_origins:wreckless": true,
+      "origins:carnivore": true,
+      "dragon_origins:advancement": true
+    },
+    "dragon_origins:pirate": {
+      "enabled": true,
+      "dragon_origins:pirate/hook": true,
+      "dragon_origins:pirate/eye_patch": true,
+      "dragon_origins:pirate/swim_speed": true,
+      "dragon_origins:pirate/home": true,
+      "dragon_origins:pirate/shiny": true,
+      "dragon_origins:advancement": true
+    },
+    "origins-classes:cook": {
+      "enabled": true,
+      "origins-classes:better_crafted_food": true,
+      "origins-classes:more_smoker_xp": true
+    },
+    "dragon_origins:druid": {
+      "enabled": true,
+      "dragon_origins:f_buf": true,
+      "dragon_origins:nether2": true,
+      "dragon_origins:hot_debuf": true,
+      "dragon_origins:vegie3": true,
+      "dragon_origins:roots": true,
+      "dragon_origins:roots2": true,
+      "dragon_origins:roots3": true,
+      "dragon_origins:heal2": true,
+      "dragon_origins:regen": true,
+      "dragon_origins:plant_v": true,
+      "dragon_origins:green2": true,
+      "dragon_origins:hunger": true,
+      "dragon_origins:advancement": true
+    },
+    "dragon_origins:yang": {
+      "enabled": true,
+      "dragon_origins:yinyang/yang/yintransform": true,
+      "dragon_origins:yinyang/yang/cloud": true,
+      "dragon_origins:yinyang/yang/posess": true,
+      "dragon_origins:yinyang/yang/transparency1": true,
+      "dragon_origins:yinyang/yang/dayweak": true,
+      "dragon_origins:yinyang/yang/invis_temp": true,
+      "dragon_origins:advancement": true
+    },
+    "origins:human": {
+      "enabled": true
+    },
+    "origins-classes:lumberjack": {
+      "enabled": true,
+      "origins-classes:tree_felling": true,
+      "origins-classes:more_planks_from_logs": true
+    },
+    "dragon_origins:sand_larvae": {
+      "enabled": true,
+      "dragon_origins:sand/sand_larvae/air_swim": true,
+      "dragon_origins:sand/sand_larvae/advancement": true,
+      "dragon_origins:sand/sand_larvae/hp": true,
+      "dragon_origins:sand/sand_larvae/size": true,
+      "dragon_origins:sand/sand_larvae/bite": true,
+      "dragon_origins:sand/sand_larvae/spit": true,
+      "dragon_origins:sand/sand_larvae/sand_confidene": true,
+      "dragon_origins:sand/sand_larvae/desert": true,
+      "dragon_origins:advancement": true
+    },
+    "origins:shulk": {
+      "enabled": true,
+      "origins:shulker_inventory": true,
+      "origins:natural_armor": true,
+      "origins:strong_arms": true,
+      "origins:strong_arms_break_speed": true,
+      "origins:no_shield": true,
+      "origins:more_exhaustion": true
+    },
+    "origins-classes:cleric": {
+      "enabled": true,
+      "origins-classes:longer_potions": true,
+      "origins-classes:better_enchanting": true
+    },
+    "dragon_origins:magic_fly": {
+      "enabled": true,
+      "dragon_origins:vegie2": true,
+      "dragon_origins:fairy_wings": true,
+      "dragon_origins:easy_travel": true,
+      "dragon_origins:size3": true,
+      "dragon_origins:slow": true,
+      "origins:fall_immunity": true,
+      "dragon_origins:6hp": true,
+      "dragon_origins:no_swords": true,
+      "dragon_origins:iron_golem": true,
+      "dragon_origins:heal": true,
+      "dragon_origins:no_combat": true,
+      "dragon_origins:hot_debuf": true,
+      "dragon_origins:nether": true,
+      "dragon_origins:hunger": true,
+      "dragon_origins:advancement": true
+    },
+    "origins:merling": {
+      "enabled": true,
+      "origins:water_breathing": true,
+      "origins:water_vision": true,
+      "origins:aqua_affinity": true,
+      "origins:swim_speed": true,
+      "origins:like_water": true,
+      "origins:aquatic": true,
+      "origins:conduit_power_on_land": true,
+      "origins:air_from_potions": true
+    },
+    "dragon_origins:undead": {
+      "enabled": true,
+      "dragon_origins:zombie": true,
+      "dragon_origins:daylight": true,
+      "dragon_origins:hugs": true,
+      "dragon_origins:body": true,
+      "dragon_origins:body_": true,
+      "dragon_origins:undead": true,
+      "dragon_origins:unnerving": true,
+      "dragon_origins:attacker": true,
+      "dragon_origins:target": true,
+      "dragon_origins:join_team": true,
+      "dragon_origins:create_team": true,
+      "dragon_origins:summon": true,
+      "dragon_origins:shovel": true,
+      "dragon_origins:stone_sword": true,
+      "dragon_origins:advancement": true
+    },
+    "origins:arachnid": {
+      "enabled": true,
+      "origins:climbing": true,
+      "origins:master_of_webs": true,
+      "origins:carnivore": true,
+      "origins:fragile": true,
+      "origins:arthropod": true
+    },
+    "dragon_origins:mimic": {
+      "enabled": true,
+      "dragon_origins:mimic/toggle": true,
+      "dragon_origins:mimic/toggle2": true,
+      "dragon_origins:mimic/display": true,
+      "origins:nine_lives": true,
+      "dragon_origins:advancement": true
+    },
+    "dragon_origins:yin": {
+      "enabled": true,
+      "dragon_origins:yinyang/yin/yangtransform": true,
+      "dragon_origins:yinyang/yin/heal": true,
+      "dragon_origins:test/lightning": true,
+      "dragon_origins:yinyang/yin/transparency": true,
+      "dragon_origins:yinyang/yin/darkweak": true,
+      "dragon_origins:advancement": true
+    },
+    "origins-classes:blacksmith": {
+      "enabled": true,
+      "origins-classes:quality_equipment": true,
+      "origins-classes:efficient_repairs": true
+    },
+    "dragon_origins:necromancer": {
+      "enabled": true,
+      "dragon_origins:gloom2": true,
+      "dragon_origins:mysterous": true,
+      "dragon_origins:emume": true,
+      "dragon_origins:summon/sz_summon": true,
+      "dragon_origins:summon/a_summon": true,
+      "dragon_origins:summon/d_summon": true,
+      "dragon_origins:cloak": true,
+      "dragon_origins:advancement": true
+    },
+    "origins-classes:rogue": {
+      "enabled": true,
+      "origins-classes:sneaky": true,
+      "origins-classes:stealth": true,
+      "origins-classes:stealth_descriptor": true
+    },
+    "digs_dnd_origins:dragonborn/green": {
+      "enabled": true,
+      "digs_dnd_origins:dragonborn/green/ability_score_increase": true,
+      "digs_dnd_origins:dragonborn/green/size": true,
+      "digs_dnd_origins:dragonborn/green/breath_weapon": true,
+      "digs_dnd_origins:dragonborn/green/damage_resistance": true,
+      "digs_dnd_origins:dragonborn/green/humid_habitat": true,
+      "digs_dnd_origins:dragonborn/green/scales": true,
+      "origins:more_exhaustion": true
+    },
+    "digs_dnd_origins:variant_human/feats/skilled": {
+      "enabled": true,
+      "digs_dnd_origins:variant_human/feats/skilled": true
+    },
+    "digs_dnd_origins:variant_human/feats/sentinel": {
+      "enabled": true,
+      "digs_dnd_origins:variant_human/feats/sentinel": true
+    },
+    "digs_dnd_origins:variant_human/feats/charger": {
+      "enabled": true,
+      "digs_dnd_origins:variant_human/feats/charger": true
+    },
+    "digs_dnd_origins:variant_human/feats/moderately_armored": {
+      "enabled": true,
+      "digs_dnd_origins:variant_human/feats/moderately_armored": true
+    },
+    "digs_dnd_origins:elf/high": {
+      "enabled": true,
+      "digs_dnd_origins:elf/high/size": true,
+      "digs_dnd_origins:elf/high/darkvision": true,
+      "digs_dnd_origins:elf/high/trance": true,
+      "digs_dnd_origins:elf/high/elf_weapon_training": true,
+      "digs_dnd_origins:elf/high/cantrip": true,
+      "digs_dnd_origins:elf/high/ability_score_increase": true
+    },
+    "digs_dnd_origins:gnome/rock": {
+      "enabled": true,
+      "digs_dnd_origins:gnome/rock/size": true,
+      "digs_dnd_origins:gnome/rock/speed": true,
+      "digs_dnd_origins:gnome/rock/darkvision": true,
+      "digs_dnd_origins:gnome/rock/tinker": true
+    },
+    "digs_dnd_origins:dragonborn/brass": {
+      "enabled": true,
+      "digs_dnd_origins:dragonborn/brass/ability_score_increase": true,
+      "digs_dnd_origins:dragonborn/brass/size": true,
+      "digs_dnd_origins:dragonborn/brass/breath_weapon": true,
+      "digs_dnd_origins:dragonborn/brass/damage_resistance": true,
+      "digs_dnd_origins:dragonborn/brass/arid_habitat": true,
+      "digs_dnd_origins:dragonborn/brass/scales": true,
+      "origins:more_exhaustion": true
+    },
+    "digs_dnd_origins:half-elf/skills/nature": {
+      "enabled": true,
+      "digs_dnd_origins:half-elf/skills/nature": true
+    },
+    "digs_dnd_origins:half-elf/skills/arcana": {
+      "enabled": true,
+      "digs_dnd_origins:half-elf/skills/arcana": true
+    },
+    "digs_dnd_origins:half-elf/skills/stealth": {
+      "enabled": true,
+      "digs_dnd_origins:half-elf/skills/stealth": true
+    },
+    "digs_dnd_origins:half-elf/skills/athletics": {
+      "enabled": true,
+      "digs_dnd_origins:half-elf/skills/athletics": true
+    },
+    "digs_dnd_origins:dragonborn/red": {
+      "enabled": true,
+      "digs_dnd_origins:dragonborn/red/ability_score_increase": true,
+      "digs_dnd_origins:dragonborn/red/size": true,
+      "digs_dnd_origins:dragonborn/red/breath_weapon": true,
+      "digs_dnd_origins:dragonborn/red/damage_resistance": true,
+      "digs_dnd_origins:dragonborn/red/molten_habitat": true,
+      "digs_dnd_origins:dragonborn/red/scales": true,
+      "origins:more_exhaustion": true
+    },
+    "digs_dnd_origins:dwarf": {
+      "enabled": true,
+      "digs_dnd_origins:dwarf/description_hill": true,
+      "digs_dnd_origins:dwarf/description_mountain": true
+    },
+    "digs_dnd_origins:elf/cantrips/lightning_lure": {
+      "enabled": true,
+      "digs_dnd_origins:elf/high/cantrips/lightning_lure": true
+    },
+    "digs_dnd_origins:dragonborn": {
+      "enabled": true,
+      "digs_dnd_origins:dragonborn/description_black": true,
+      "digs_dnd_origins:dragonborn/description_blue": true,
+      "digs_dnd_origins:dragonborn/description_brass": true,
+      "digs_dnd_origins:dragonborn/description_green": true,
+      "digs_dnd_origins:dragonborn/description_red": true,
+      "digs_dnd_origins:dragonborn/description_white": true
+    },
+    "digs_dnd_origins:elf": {
+      "enabled": true,
+      "digs_dnd_origins:elf/description_high": true,
+      "digs_dnd_origins:elf/description_wood": true,
+      "digs_dnd_origins:elf/description_dark": true
+    },
+    "digs_dnd_origins:gnome/forest": {
+      "enabled": true,
+      "digs_dnd_origins:gnome/forest/size": true,
+      "digs_dnd_origins:gnome/forest/speed": true,
+      "digs_dnd_origins:gnome/forest/darkvision": true,
+      "digs_dnd_origins:gnome/forest/speak_with_small_beasts": true
+    },
+    "digs_dnd_origins:half-elf/skills/medicine": {
+      "enabled": true,
+      "digs_dnd_origins:half-elf/skills/medicine": true
+    },
+    "digs_dnd_origins:half-elf/skills/animal_handling": {
+      "enabled": true,
+      "digs_dnd_origins:half-elf/skills/animal_handling": true
+    },
+    "digs_dnd_origins:half-elf": {
+      "enabled": true,
+      "digs_dnd_origins:half-elf/ability_score_increase": true,
+      "digs_dnd_origins:half-elf/size": true,
+      "digs_dnd_origins:half-elf/darkvision": true,
+      "digs_dnd_origins:half-elf/skill_versatility": true
+    },
+    "digs_dnd_origins:elf/dark": {
+      "enabled": true,
+      "digs_dnd_origins:elf/dark/size": true,
+      "digs_dnd_origins:elf/dark/superior_darkvision": true,
+      "digs_dnd_origins:elf/dark/trance": true,
+      "digs_dnd_origins:elf/dark/sunlight_sensitivity": true,
+      "digs_dnd_origins:elf/dark/drow_magic": true,
+      "digs_dnd_origins:elf/dark/faerie_fire": true,
+      "digs_dnd_origins:elf/dark/darkness": true,
+      "digs_dnd_origins:elf/dark/drow_weapon_training": true,
+      "digs_dnd_origins:elf/dark/ability_score_increase": true
+    },
+    "digs_dnd_origins:variant_human": {
+      "enabled": true,
+      "digs_dnd_origins:variant_human/skills": true,
+      "digs_dnd_origins:variant_human/feat": true
+    },
+    "digs_dnd_origins:dwarf/mountain": {
+      "enabled": true,
+      "digs_dnd_origins:dwarf/mountain/size": true,
+      "digs_dnd_origins:dwarf/mountain/speed": true,
+      "digs_dnd_origins:dwarf/mountain/darkvision": true,
+      "digs_dnd_origins:dwarf/mountain/dwarven_resilience": true,
+      "digs_dnd_origins:dwarf/mountain/dwarven_combat_training": true,
+      "digs_dnd_origins:dwarf/mountain/dwarven_armor_training": true,
+      "digs_dnd_origins:dwarf/hill/tool_proficiency": true
+    },
+    "digs_dnd_origins:halfling/lightfoot": {
+      "enabled": true,
+      "digs_dnd_origins:halfling/lightfoot/size": true,
+      "digs_dnd_origins:halfling/lightfoot/speed": true,
+      "digs_dnd_origins:halfling/lightfoot/lucky": true,
+      "digs_dnd_origins:halfling/lightfoot/halfling_nimbleness": true,
+      "digs_dnd_origins:halfling/lightfoot/naturally_stealthy": true
+    },
+    "digs_dnd_origins:dragonborn/white": {
+      "enabled": true,
+      "digs_dnd_origins:dragonborn/white/ability_score_increase": true,
+      "digs_dnd_origins:dragonborn/white/size": true,
+      "digs_dnd_origins:dragonborn/white/breath_weapon": true,
+      "digs_dnd_origins:dragonborn/white/damage_resistance": true,
+      "digs_dnd_origins:dragonborn/white/arctic_habitat": true,
+      "digs_dnd_origins:dragonborn/white/scales": true,
+      "origins:more_exhaustion": true
+    },
+    "digs_dnd_origins:variant_human/feats/skulker": {
+      "enabled": true,
+      "digs_dnd_origins:variant_human/feats/skulker": true
+    },
+    "digs_dnd_origins:elf/cantrips/ray_of_frost": {
+      "enabled": true,
+      "digs_dnd_origins:elf/high/cantrips/ray_of_frost": true
+    },
+    "digs_dnd_origins:variant_human/feats/heavily_armored": {
+      "enabled": true,
+      "digs_dnd_origins:variant_human/feats/heavily_armored": true
+    },
+    "digs_dnd_origins:half-elf/skills/sleight_of_hand": {
+      "enabled": true,
+      "digs_dnd_origins:half-elf/skills/sleight_of_hand": true
+    },
+    "digs_dnd_origins:dragonborn/blue": {
+      "enabled": true,
+      "digs_dnd_origins:dragonborn/blue/ability_score_increase": true,
+      "digs_dnd_origins:dragonborn/blue/size": true,
+      "digs_dnd_origins:dragonborn/blue/breath_weapon": true,
+      "digs_dnd_origins:dragonborn/blue/damage_resistance": true,
+      "digs_dnd_origins:dragonborn/blue/arid_habitat": true,
+      "digs_dnd_origins:dragonborn/blue/scales": true,
+      "origins:more_exhaustion": true
+    },
+    "digs_dnd_origins:variant_human/feats/mobile": {
+      "enabled": true,
+      "digs_dnd_origins:variant_human/feats/mobile": true
+    },
+    "digs_dnd_origins:dragonborn/black": {
+      "enabled": true,
+      "digs_dnd_origins:dragonborn/black/ability_score_increase": true,
+      "digs_dnd_origins:dragonborn/black/size": true,
+      "digs_dnd_origins:dragonborn/black/breath_weapon": true,
+      "digs_dnd_origins:dragonborn/black/damage_resistance": true,
+      "digs_dnd_origins:dragonborn/black/humid_habitat": true,
+      "digs_dnd_origins:dragonborn/black/scales": true,
+      "origins:more_exhaustion": true
+    },
+    "digs_dnd_origins:gnome": {
+      "enabled": true,
+      "digs_dnd_origins:gnome/description_deep": true,
+      "digs_dnd_origins:gnome/description_forest": true,
+      "digs_dnd_origins:gnome/description_rock": true
+    },
+    "digs_dnd_origins:dwarf/hill": {
+      "enabled": true,
+      "digs_dnd_origins:dwarf/hill/size": true,
+      "digs_dnd_origins:dwarf/hill/speed": true,
+      "digs_dnd_origins:dwarf/hill/darkvision": true,
+      "digs_dnd_origins:dwarf/hill/dwarven_resilience": true,
+      "digs_dnd_origins:dwarf/hill/dwarven_combat_training": true,
+      "digs_dnd_origins:dwarf/hill/dwarven_toughness": true,
+      "digs_dnd_origins:dwarf/hill/tool_proficiency": true
+    },
+    "digs_dnd_origins:variant_human/feats/lightly_armored": {
+      "enabled": true,
+      "digs_dnd_origins:variant_human/feats/lightly_armored": true
+    },
+    "digs_dnd_origins:gnome/deep": {
+      "enabled": true,
+      "digs_dnd_origins:gnome/deep/size": true,
+      "digs_dnd_origins:gnome/deep/speed": true,
+      "digs_dnd_origins:gnome/deep/superior_darkvision": true,
+      "digs_dnd_origins:gnome/deep/stone_camouflage": true
+    },
+    "digs_dnd_origins:halfling/stout": {
+      "enabled": true,
+      "digs_dnd_origins:halfling/stout/size": true,
+      "digs_dnd_origins:halfling/stout/speed": true,
+      "digs_dnd_origins:halfling/stout/lucky": true,
+      "digs_dnd_origins:halfling/stout/halfling_nimbleness": true,
+      "digs_dnd_origins:halfling/stout/stout_resilience": true
+    },
+    "digs_dnd_origins:elf/cantrips/poison_spray": {
+      "enabled": true,
+      "digs_dnd_origins:elf/high/cantrips/poison_spray": true
+    },
+    "digs_dnd_origins:variant_human/feats/tough": {
+      "enabled": true,
+      "digs_dnd_origins:variant_human/feats/tough": true
+    },
+    "digs_dnd_origins:half-elf/skills/survival": {
+      "enabled": true,
+      "digs_dnd_origins:half-elf/skills/survival": true
+    },
+    "digs_dnd_origins:half-orc": {
+      "enabled": true,
+      "digs_dnd_origins:half-orc/size": true,
+      "digs_dnd_origins:half-orc/darkvision": true,
+      "digs_dnd_origins:half-orc/menacing": true,
+      "digs_dnd_origins:half-orc/relentless_endurance": true,
+      "digs_dnd_origins:half-orc/savage_attacks": true,
+      "origins:more_exhaustion": true
+    },
+    "digs_dnd_origins:halfling": {
+      "enabled": true,
+      "digs_dnd_origins:halfling/description_lightfoot": true,
+      "digs_dnd_origins:halfling/description_stout": true
+    },
+    "digs_dnd_origins:tiefling": {
+      "enabled": true,
+      "digs_dnd_origins:tiefling/darkvision": true,
+      "digs_dnd_origins:tiefling/hellish_resistance": true,
+      "digs_dnd_origins:tiefling/infernal_legacy": true,
+      "digs_dnd_origins:tiefling/hellish_rebuke": true,
+      "digs_dnd_origins:tiefling/darkness": true,
+      "digs_dnd_origins:tiefling/feared": true,
+      "digs_dnd_origins:tiefling/horns": true,
+      "digs_dnd_origins:tiefling/ability_score_increase": true
+    },
+    "digs_dnd_origins:elf/cantrips/firebolt": {
+      "enabled": true,
+      "digs_dnd_origins:elf/high/cantrips/firebolt": true
+    },
+    "digs_dnd_origins:elf/wood": {
+      "enabled": true,
+      "digs_dnd_origins:elf/wood/size": true,
+      "digs_dnd_origins:elf/wood/darkvision": true,
+      "digs_dnd_origins:elf/high/trance": true,
+      "digs_dnd_origins:elf/wood/elf_weapon_training": true,
+      "digs_dnd_origins:elf/wood/fleet_of_foot": true,
+      "digs_dnd_origins:elf/wood/mask_of_the_wild": true
+    },
+    "bucolicraces:packrat": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/threequartersize": true,
+      "bucolicraces:health_modifiers/sevenheart": true,
+      "bucolicraces:diet_modifiers/weak_stomach": true,
+      "bucolicraces:on-hit_modifiers/weak": true,
+      "bucolicraces:abilities/shulker_inventory": true,
+      "bucolicraces:status_effect_modifiers/fast": true
+    },
+    "bucolicraces:bee": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/quartersize": true,
+      "bucolicraces:speed_modifiers/quartertallflight": true,
+      "bucolicraces:health_modifiers/fiveheart": true,
+      "bucolicraces:skills/greater_wings": true,
+      "bucolicraces:on-hit_modifiers/poison": true,
+      "bucolicraces:diet_modifiers/nectar": true,
+      "bucolicraces:diet_modifiers/honeybuff": true,
+      "bucolicraces:diet_modifiers/honeydiet": true,
+      "bucolicraces:ally_modifiers/beeteam": true,
+      "bucolicraces:ally_modifiers/beeteaminvite": true,
+      "bucolicraces:zmisc_modifiers/lay_bee": true,
+      "bucolicraces:zmisc_modifiers/lay_bee1": true
+    },
+    "bucolicraces:crab": {
+      "enabled": true,
+      "bucolicraces:speed_modifiers/crabwalk": true,
+      "bucolicraces:status_effect_modifiers/fast": true,
+      "bucolicraces:diet_modifiers/pescatarian": true,
+      "bucolicraces:diet_modifiers/fishbuff": true,
+      "bucolicraces:size_modifiers/halfsize": true,
+      "bucolicraces:size_modifiers/crabwidth": true,
+      "bucolicraces:on-hit_modifiers/claws": true
+    },
+    "bucolicraces:woodling": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/quartersize": true,
+      "bucolicraces:damage_taken_modifiers/flamable": true,
+      "bucolicraces:health_modifiers/sevenheart": true,
+      "bucolicraces:ally_modifiers/villagerdiscountbetter": true,
+      "bucolicraces:zmisc_modifiers/photosynthesis": true,
+      "bucolicraces:ally_modifiers/passive": true,
+      "bucolicraces:diet_modifiers/honeybuff": true,
+      "bucolicraces:status_effect_modifiers/blendin": true
+    },
+    "bucolicraces:tabbyborn": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/threequartersize": true,
+      "bucolicraces:health_modifiers/sevenheart": true,
+      "bucolicraces:ally_modifiers/villagerdiscountbetter": true,
+      "bucolicraces:ally_modifiers/scarecreepers": true,
+      "bucolicraces:diet_modifiers/pescatarian": true,
+      "origins:scare_creepers": true,
+      "bucolicraces:abilities/dash": true,
+      "bucolicraces:fall_modifiers/restrictfall": true,
+      "bucolicraces:zmisc_modifiers/elytraprevent": true,
+      "bucolicraces:ally_modifiers/wolfhunt": true
+    },
+    "bucolicraces:illager": {
+      "enabled": true,
+      "bucolicraces:ally_modifiers/irongolemmad": true,
+      "bucolicraces:ally_modifiers/trading": true,
+      "bucolicraces:on-hit_modifiers/bowdamage": true,
+      "bucolicraces:on-hit_modifiers/axedamage": true,
+      "bucolicraces:ally_modifiers/illagerteam": true,
+      "bucolicraces:ally_modifiers/illagerinvite": true,
+      "bucolicraces:status_effect_modifiers/banner": true
+    },
+    "bucolicraces:undead": {
+      "enabled": true,
+      "bucolicraces:zmisc_modifiers/heliophobia": true,
+      "bucolicraces:status_effect_modifiers/nightvision": true,
+      "bucolicraces:ally_modifiers/undeadteam": true,
+      "bucolicraces:ally_modifiers/undeadinvite": true,
+      "bucolicraces:entity_groups/undeadentity": true,
+      "bucolicraces:status_effect_modifiers/sinking": true,
+      "bucolicraces:status_effect_modifiers/slowwater": true,
+      "bucolicraces:skin_modifiers/undead_skin": true,
+      "bucolicraces:diet_modifiers/rawbuff": true,
+      "bucolicraces:diet_modifiers/rawdiet": true,
+      "bucolicraces:damage_taken_modifiers/hungerresist": true,
+      "bucolicraces:ally_modifiers/trading": true,
+      "bucolicraces:ally_modifiers/irongolemmad": true
+    },
+    "bucolicraces:melon": {
+      "enabled": true,
+      "bucolicraces:abilities/pumpkin": true,
+      "bucolicraces:zmisc_modifiers/dull": true,
+      "bucolicraces:status_effect_modifiers/regen": true,
+      "bucolicraces:zmisc_modifiers/photosynthesis": true,
+      "bucolicraces:diet_modifiers/honeydiet": true,
+      "bucolicraces:diet_modifiers/honeybuff": true,
+      "bucolicraces:ally_modifiers/endermanteam": true,
+      "bucolicraces:ally_modifiers/endermanteaminvite": true,
+      "bucolicraces:size_modifiers/threequartersize": true,
+      "bucolicraces:health_modifiers/sevenheart": true,
+      "bucolicraces:status_effect_modifiers/pumpkinhate": true,
+      "bucolicraces:abilities/flush": true
+    },
+    "bucolicraces:goblin": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/halfsize": true,
+      "bucolicraces:health_modifiers/fiveheart": true,
+      "bucolicraces:skin_modifiers/goblin_skin": true,
+      "bucolicraces:status_effect_modifiers/nightvision": true,
+      "bucolicraces:status_effect_modifiers/lucky": true,
+      "bucolicraces:recipes/gold": true,
+      "bucolicraces:on-hit_modifiers/weak": true,
+      "bucolicraces:armor_modifiers/golden": true
+    },
+    "bucolicraces:villager": {
+      "enabled": true,
+      "bucolicraces:ally_modifiers/villagerdiscountamazing": true,
+      "bucolicraces:abilities/golemshot": true,
+      "bucolicraces:status_effect_modifiers/afraidofdark": true,
+      "bucolicraces:damage_taken_modifiers/zombieillager": true
+    },
+    "bucolicraces:candling": {
+      "enabled": true,
+      "bucolicraces:diet_modifiers/smalldiet": true,
+      "bucolicraces:diet_modifiers/waxdiet": true,
+      "bucolicraces:diet_modifiers/candle/honeycomb": true,
+      "bucolicraces:diet_modifiers/candle/tallow": true,
+      "bucolicraces:diet_modifiers/candle/animalfat": true,
+      "bucolicraces:size_modifiers/adaptivesize": true,
+      "bucolicraces:skin_modifiers/wick": true,
+      "bucolicraces:damage_taken_modifiers/wick_water_vulnerability": true,
+      "bucolicraces:status_effect_modifiers/regen": true,
+      "bucolicraces:zmisc_modifiers/fireheal": true,
+      "bucolicraces:damage_taken_modifiers/fire_immunity": true,
+      "bucolicraces:status_effect_modifiers/firehunger": true,
+      "bucolicraces:skin_modifiers/honey_particles": true,
+      "bucolicraces:size_modifiers/reset": true
+    },
+    "bucolicraces:mush": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/quartersize": true,
+      "bucolicraces:health_modifiers/fiveheart": true,
+      "bucolicraces:diet_modifiers/rawbuff": true,
+      "bucolicraces:diet_modifiers/rawdiet": true,
+      "bucolicraces:zmisc_modifiers/dull": true,
+      "bucolicraces:abilities/shroomlaunch": true,
+      "bucolicraces:abilities/launch": true,
+      "bucolicraces:recipes/mycelium": true,
+      "bucolicraces:skin_modifiers/thick_spores": true,
+      "bucolicraces:skin_modifiers/mush_particles": true,
+      "bucolicraces:status_effect_modifiers/mycelium": true
+    },
+    "bucolicraces:pumpkin": {
+      "enabled": true,
+      "bucolicraces:abilities/pumpkin": true,
+      "bucolicraces:zmisc_modifiers/dull": true,
+      "bucolicraces:status_effect_modifiers/regen": true,
+      "bucolicraces:zmisc_modifiers/photosynthesis": true,
+      "bucolicraces:diet_modifiers/honeydiet": true,
+      "bucolicraces:diet_modifiers/honeybuff": true,
+      "bucolicraces:ally_modifiers/endermanteam": true,
+      "bucolicraces:ally_modifiers/endermanteaminvite": true,
+      "bucolicraces:size_modifiers/threequartersize": true,
+      "bucolicraces:health_modifiers/sevenheart": true,
+      "bucolicraces:status_effect_modifiers/melonhate": true,
+      "bucolicraces:abilities/harden": true
+    },
+    "bucolicraces:enderfolk": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/threeblockstall": true,
+      "bucolicraces:jumping_modifiers/threetalljump": true,
+      "bucolicraces:speed_modifiers/threetallspeed": true,
+      "bucolicraces:health_modifiers/fifteenheart": true,
+      "bucolicraces:ally_modifiers/endermanteam": true,
+      "bucolicraces:ally_modifiers/endermanteaminviteenderman": true,
+      "bucolicraces:skin_modifiers/black_skin": true,
+      "bucolicraces:diet_modifiers/vegetarian": true,
+      "bucolicraces:abilities/throw_ender_pearl": true,
+      "bucolicraces:size_modifiers/endermanwidth": true,
+      "bucolicraces:damage_taken_modifiers/water_vulnerability": true,
+      "bucolicraces:zmisc_modifiers/pumpkin_hate": true,
+      "bucolicraces:skin_modifiers/ender_particles": true
+    },
+    "bucolicraces:chameleon": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/threequartersize": true,
+      "bucolicraces:biome_modifiers/coldfreeze": true,
+      "bucolicraces:biome_modifiers/hotspeed": true,
+      "bucolicraces:damage_taken_modifiers/poisonresist": true,
+      "bucolicraces:status_effect_modifiers/lightunderwaterbreathing": true,
+      "bucolicraces:status_effect_modifiers/greatershiftinvis": true
+    },
+    "bucolicraces:worm": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/quartersize": true,
+      "bucolicraces:diet_modifiers/rawbuff": true,
+      "bucolicraces:recipes/dirt": true,
+      "bucolicraces:recipes/bonemeal": true,
+      "bucolicraces:health_modifiers/fiveheart": true,
+      "bucolicraces:skills/dirtswimmer": true,
+      "bucolicraces:diet_modifiers/worm/bonemeal": true,
+      "bucolicraces:diet_modifiers/bonediet": true,
+      "bucolicraces:on-hit_modifiers/weak": true
+    },
+    "bucolicraces:raccoon": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/threequartersize": true,
+      "bucolicraces:health_modifiers/sevenheart": true,
+      "bucolicraces:diet_modifiers/rawbuff": true,
+      "bucolicraces:skills/climbing": true,
+      "bucolicraces:abilities/side_step": true,
+      "bucolicraces:on-hit_modifiers/claws": true
+    },
+    "bucolicraces:noble": {
+      "enabled": true,
+      "bucolicraces:zmisc_modifiers/noores": true,
+      "bucolicraces:armor_modifiers/golden": true,
+      "bucolicraces:diet_modifiers/weak_stomach": true,
+      "bucolicraces:recipes/explosive": true,
+      "bucolicraces:on-hit_modifiers/strong": true,
+      "bucolicraces:ally_modifiers/noble": true,
+      "bucolicraces:zmisc_modifiers/smart": true
+    },
+    "bucolicraces:illithid": {
+      "enabled": true,
+      "bucolicraces:abilities/illithid/telekinesis": true,
+      "bucolicraces:abilities/illithid/mindblast": true,
+      "bucolicraces:abilities/illithid/consentratedray": true,
+      "bucolicraces:skills/levitate": true,
+      "bucolicraces:health_modifiers/sevenheart": true,
+      "bucolicraces:diet_modifiers/illithid/consumeintelect": true,
+      "bucolicraces:zmisc_modifiers/connoisseurofintelect": true,
+      "bucolicraces:size_modifiers/threeblockstall": true,
+      "bucolicraces:on-hit_modifiers/notbuiltforcombat": true,
+      "bucolicraces:ally_modifiers/irongolemmad": true,
+      "bucolicraces:ally_modifiers/charm": true,
+      "bucolicraces:damage_taken_modifiers/stabable": true,
+      "bucolicraces:damage_taken_modifiers/poppable": true,
+      "bucolicraces:diet_modifiers/dietnone": true
+    },
+    "bucolicraces:pixeling": {
+      "enabled": true,
+      "bucolicraces:speed_modifiers/quartertallflight": true,
+      "bucolicraces:health_modifiers/threeheart": true,
+      "bucolicraces:size_modifiers/micro": true,
+      "bucolicraces:abilities/pixeling_hold/sugar": true,
+      "bucolicraces:abilities/pixeling_hold/feather": true,
+      "bucolicraces:abilities/pixeling_hold/rocket": true,
+      "bucolicraces:abilities/pixeling_hold/string": true,
+      "bucolicraces:fall_modifiers/microfall": true,
+      "bucolicraces:diet_modifiers/miniscule": true,
+      "bucolicraces:biome_modifiers/nocold": true,
+      "bucolicraces:skills/climbing": true,
+      "bucolicraces:on-hit_modifiers/weak": true
+    },
+    "bucolicraces:human": {
+      "enabled": true
+    },
+    "bucolicraces:dragon": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/threeblockstall": true,
+      "bucolicraces:jumping_modifiers/threetalljump": true,
+      "bucolicraces:speed_modifiers/threetallspeed": true,
+      "bucolicraces:skills/greater_wings": true,
+      "bucolicraces:damage_taken_modifiers/fire_immunity": true,
+      "bucolicraces:ally_modifiers/trading": true,
+      "bucolicraces:diet_modifiers/weak_stomach": true,
+      "bucolicraces:abilities/dragonbreath": true,
+      "bucolicraces:status_effect_modifiers/abovemypaygrade": true
+    },
+    "bucolicraces:hare": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/halfsize": true,
+      "bucolicraces:status_effect_modifiers/fast": true,
+      "bucolicraces:diet_modifiers/vegetarian": true,
+      "bucolicraces:ally_modifiers/wolfhunt": true,
+      "bucolicraces:health_modifiers/sevenheart": true,
+      "bucolicraces:jumping_modifiers/harejump": true,
+      "bucolicraces:fall_modifiers/harefall": true
+    },
+    "bucolicraces:irongolem": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/threeblockstall": true,
+      "bucolicraces:jumping_modifiers/threetalljump": true,
+      "bucolicraces:speed_modifiers/threetallspeed": true,
+      "bucolicraces:health_modifiers/fifteenheart": true,
+      "bucolicraces:ally_modifiers/villagerdiscount": true,
+      "bucolicraces:on-hit_modifiers/iron_hands": true,
+      "bucolicraces:diet_modifiers/nohunger": true,
+      "bucolicraces:status_effect_modifiers/regen": true,
+      "bucolicraces:diet_modifiers/irongolem/ironnugget": true,
+      "bucolicraces:diet_modifiers/irongolem/rawiron": true,
+      "bucolicraces:diet_modifiers/irongolem/ironingot": true,
+      "bucolicraces:diet_modifiers/irongolem/crushed_iron_ore": true,
+      "bucolicraces:diet_modifiers/irongolem/iron_sheet": true,
+      "bucolicraces:diet_modifiers/irongolem/metal_bar": true,
+      "bucolicraces:diet_modifiers/irondiet": true,
+      "bucolicraces:damage_taken_modifiers/fall_immunity": true,
+      "bucolicraces:zmisc_modifiers/noswords": true,
+      "bucolicraces:status_effect_modifiers/sinking": true,
+      "bucolicraces:damage_taken_modifiers/drown": true
+    },
+    "bucolicraces:fireelemental": {
+      "enabled": true,
+      "bucolicraces:damage_taken_modifiers/wick_water_vulnerability": true,
+      "bucolicraces:zmisc_modifiers/fireheal": true,
+      "bucolicraces:damage_taken_modifiers/fire_immunity": true,
+      "bucolicraces:size_modifiers/reset": true,
+      "bucolicraces:damage_taken_modifiers/water_vulnerability": true,
+      "bucolicraces:skin_modifiers/smoke": true,
+      "bucolicraces:abilities/blaze": true,
+      "bucolicraces:diet_modifiers/fireelemental/coal": true,
+      "bucolicraces:diet_modifiers/fireelemental/charcoal": true,
+      "bucolicraces:diet_modifiers/fireelemental/lava": true,
+      "bucolicraces:diet_modifiers/fireelemental/blazingbucket": true,
+      "bucolicraces:diet_modifiers/fireelemental/lessnutritionfire": true,
+      "bucolicraces:skin_modifiers/red_skin": true
+    },
+    "bucolicraces:werewolf": {
+      "enabled": true,
+      "bucolicraces:zmisc_modifiers/werewolf": true,
+      "bucolicraces:zmisc_modifiers/nosleep": true,
+      "bucolicraces:ally_modifiers/trading": true,
+      "bucolicraces:diet_modifiers/rawbuff": true,
+      "bucolicraces:diet_modifiers/rawdiet": true,
+      "bucolicraces:size_modifiers/reset": true
+    },
+    "bucolicraces:beetle": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/quartersize": true,
+      "bucolicraces:speed_modifiers/quartertallflight": true,
+      "bucolicraces:health_modifiers/fiveheart": true,
+      "bucolicraces:skills/elytra": true,
+      "bucolicraces:diet_modifiers/rawbuff": true,
+      "bucolicraces:recipes/dirt": true,
+      "bucolicraces:speed_modifiers/slow": true,
+      "bucolicraces:armor_modifiers/leather": true,
+      "bucolicraces:armor_modifiers/beetle_armor": true
+    },
+    "bucolicraces:phoenixborn": {
+      "enabled": true,
+      "bucolicraces:status_effect_modifiers/fueledbylight": true,
+      "bucolicraces:abilities/birdlaunch": true,
+      "bucolicraces:abilities/launch_high": true,
+      "bucolicraces:abilities/flameofhope": true,
+      "bucolicraces:skills/elytra": true,
+      "bucolicraces:abilities/rebirth": true,
+      "bucolicraces:damage_taken_modifiers/wick_water_vulnerability": true,
+      "bucolicraces:status_effect_modifiers/regen": true,
+      "bucolicraces:zmisc_modifiers/fireheal": true,
+      "bucolicraces:damage_taken_modifiers/fire_immunity": true,
+      "bucolicraces:diet_modifiers/giantdiet": true,
+      "bucolicraces:ally_modifiers/passive": true,
+      "bucolicraces:damage_taken_modifiers/water_vulnerability": true
+    },
+    "bucolicraces:fairy": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/quartersize": true,
+      "bucolicraces:speed_modifiers/quartertallflight": true,
+      "bucolicraces:health_modifiers/threeheart": true,
+      "bucolicraces:skills/greaterflight": true,
+      "bucolicraces:damage_taken_modifiers/ferrumphobia": true,
+      "bucolicraces:status_effect_modifiers/healingmagic": true,
+      "bucolicraces:armor_modifiers/ferrumphobiaarmor": true,
+      "bucolicraces:skin_modifiers/fairy_particles": true,
+      "bucolicraces:on-hit_modifiers/weak": true
+    },
+    "bucolicraces:llama": {
+      "enabled": true,
+      "bucolicraces:diet_modifiers/vegetarian": true,
+      "bucolicraces:ally_modifiers/wolfhunt": true,
+      "bucolicraces:abilities/spit": true,
+      "bucolicraces:on-hit_modifiers/llama_spit": true,
+      "bucolicraces:size_modifiers/elfwidth": true,
+      "bucolicraces:size_modifiers/belowaverage": true,
+      "bucolicraces:zmisc_modifiers/shed": true
+    },
+    "bucolicraces:creeper": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/belowaverage": true,
+      "bucolicraces:health_modifiers/sevenheart": true,
+      "bucolicraces:abilities/creeper_explode": true,
+      "bucolicraces:on-hit_modifiers/explosiononhit": true,
+      "bucolicraces:ally_modifiers/trading": true,
+      "bucolicraces:zmisc_modifiers/lay_gunpowder": true
+    },
+    "bucolicraces:atlantean": {
+      "enabled": true,
+      "bucolicraces:status_effect_modifiers/dolphins": true,
+      "bucolicraces:status_effect_modifiers/water_regen": true,
+      "bucolicraces:status_effect_modifiers/water_breathing": true,
+      "bucolicraces:diet_modifiers/pescatarian": true,
+      "bucolicraces:diet_modifiers/fishbuff": true,
+      "bucolicraces:skin_modifiers/blue_skin": true,
+      "bucolicraces:skin_modifiers/drip": true,
+      "bucolicraces:zmisc_modifiers/dried_out": true,
+      "bucolicraces:damage_taken_modifiers/eternal_flame": true
+    },
+    "bucolicraces:theblind": {
+      "enabled": true,
+      "bucolicraces:zmisc_modifiers/blind": true,
+      "bucolicraces:zmisc_modifiers/blindvision": true
+    },
+    "bucolicraces:grandma": {
+      "enabled": true,
+      "bucolicraces:vision_modifiers/blurry": true
+    },
+    "bucolicraces:orc": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/twoandahalfblockstall": true,
+      "bucolicraces:jumping_modifiers/threetalljump": true,
+      "bucolicraces:speed_modifiers/threetallspeed": true,
+      "bucolicraces:health_modifiers/fifteenheart": true,
+      "bucolicraces:diet_modifiers/carnivore": true,
+      "bucolicraces:zmisc_modifiers/dull": true,
+      "bucolicraces:abilities/berserk": true,
+      "bucolicraces:skin_modifiers/orc_skin": true
+    },
+    "bucolicraces:relic": {
+      "enabled": true,
+      "bucolicraces:damage_taken_modifiers/fire_immunity": true,
+      "bucolicraces:damage_taken_modifiers/poisonresist": true,
+      "bucolicraces:abilities/statue": true,
+      "bucolicraces:diet_modifiers/relic/brick": true,
+      "bucolicraces:diet_modifiers/relic/clay": true,
+      "bucolicraces:diet_modifiers/relic/netherbrick": true,
+      "bucolicraces:diet_modifiers/relic/scortchedbrick": true,
+      "bucolicraces:diet_modifiers/relic/ashbrick": true,
+      "bucolicraces:diet_modifiers/relic/searedbrick": true,
+      "bucolicraces:diet_modifiers/claydiet": true,
+      "bucolicraces:status_effect_modifiers/sinking": true,
+      "bucolicraces:damage_taken_modifiers/drown": true
+    },
+    "bucolicraces:iceelemental": {
+      "enabled": true,
+      "bucolicraces:biome_modifiers/iceelemental": true,
+      "bucolicraces:size_modifiers/reset": true,
+      "bucolicraces:diet_modifiers/coldbiomediet": true,
+      "bucolicraces:zmisc_modifiers/lay_ice": true,
+      "bucolicraces:damage_taken_modifiers/flamable": true,
+      "bucolicraces:abilities/icegolemshot": true,
+      "bucolicraces:speed_modifiers/ice_slip": true
+    },
+    "bucolicraces:gnome": {
+      "enabled": true,
+      "bucolicraces:diet_modifiers/vegetarian": true,
+      "bucolicraces:size_modifiers/quartersize": true,
+      "bucolicraces:health_modifiers/fiveheart": true,
+      "bucolicraces:status_effect_modifiers/fast": true,
+      "bucolicraces:ally_modifiers/passive": true,
+      "bucolicraces:abilities/healing/rightclickheal": true
+    },
+    "bucolicraces:sheep": {
+      "enabled": true,
+      "bucolicraces:status_effect_modifiers/strengthinnumbers": true,
+      "bucolicraces:damage_taken_modifiers/wool": true,
+      "bucolicraces:damage_taken_modifiers/thickhair": true,
+      "bucolicraces:ally_modifiers/wolfhunt": true,
+      "bucolicraces:status_effect_modifiers/sinking": true,
+      "bucolicraces:diet_modifiers/giantdiet": true,
+      "bucolicraces:health_modifiers/sevenheart": true,
+      "bucolicraces:ally_modifiers/villagerdiscountbetter": true,
+      "bucolicraces:abilities/battlecry": true,
+      "bucolicraces:abilities/shear": true,
+      "bucolicraces:diet_modifiers/sheep/grass": true,
+      "bucolicraces:diet_modifiers/sheep/grassblock": true,
+      "bucolicraces:diet_modifiers/sheep/pumpkin": true,
+      "bucolicraces:diet_modifiers/sheep/sheepdiet": true,
+      "bucolicraces:diet_modifiers/sheep/wheat": true
+    },
+    "bucolicraces:vampire": {
+      "enabled": true,
+      "bucolicraces:diet_modifiers/nohunger": true,
+      "bucolicraces:diet_modifiers/vampire/rightclickdrain": true,
+      "bucolicraces:diet_modifiers/vampire/blood_bottle": true,
+      "bucolicraces:diet_modifiers/vampire/blood_bucket1": true,
+      "bucolicraces:diet_modifiers/vampire/blood_bucket2": true,
+      "bucolicraces:diet_modifiers/vampire/blood_slime_balls": true,
+      "bucolicraces:diet_modifiers/blood": true,
+      "bucolicraces:entity_groups/undeadentity": true,
+      "bucolicraces:status_effect_modifiers/nightvision": true,
+      "bucolicraces:speed_modifiers/nightspeed": true,
+      "bucolicraces:status_effect_modifiers/dayweak": true,
+      "bucolicraces:status_effect_modifiers/shiftinvis": true,
+      "bucolicraces:ally_modifiers/vampirewolf": true,
+      "bucolicraces:status_effect_modifiers/holywater": true,
+      "bucolicraces:status_effect_modifiers/regen": true
+    },
+    "bucolicraces:butterfly": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/quartersize": true,
+      "bucolicraces:health_modifiers/fiveheart": true,
+      "bucolicraces:skills/greaterflight": true,
+      "bucolicraces:skin_modifiers/rainbowhead": true,
+      "bucolicraces:on-hit_modifiers/passive": true,
+      "bucolicraces:skin_modifiers/fairy_particles": true,
+      "bucolicraces:diet_modifiers/nectar": true,
+      "bucolicraces:diet_modifiers/honeybuff": true,
+      "bucolicraces:diet_modifiers/honeydiet": true,
+      "bucolicraces:ally_modifiers/beeteam": true,
+      "bucolicraces:ally_modifiers/beeteaminvite": true,
+      "bucolicraces:damage_taken_modifiers/spiders": true
+    },
+    "bucolicraces:brownie": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/threequartersize": true,
+      "bucolicraces:on-hit_modifiers/weak": true,
+      "bucolicraces:status_effect_modifiers/afraidofsun": true,
+      "bucolicraces:status_effect_modifiers/nightvision": true,
+      "bucolicraces:diet_modifiers/sweetsbuff": true,
+      "bucolicraces:diet_modifiers/stewsbuff": true,
+      "bucolicraces:recipes/cheapcookie": true,
+      "bucolicraces:recipes/sugarextract": true,
+      "bucolicraces:recipes/beetroot": true,
+      "bucolicraces:recipes/rabbit": true,
+      "bucolicraces:recipes/mushroom": true
+    },
+    "bucolicraces:sunwalker": {
+      "enabled": true,
+      "bucolicraces:zmisc_modifiers/daywalker": true,
+      "bucolicraces:zmisc_modifiers/nosleep": true,
+      "bucolicraces:damage_taken_modifiers/fire_immunity": true,
+      "bucolicraces:size_modifiers/reset": true
+    },
+    "bucolicraces:xamyab": {
+      "enabled": true,
+      "bucolicraces:on-hit_modifiers/notbuiltforcombat": true,
+      "bucolicraces:damage_taken_modifiers/poisonresist": true,
+      "bucolicraces:damage_taken_modifiers/fire_immunity": true,
+      "bucolicraces:damage_taken_modifiers/fall_immunity": true,
+      "bucolicraces:size_modifiers/threeblockstall": true,
+      "bucolicraces:abilities/healing/firstaid": true,
+      "bucolicraces:abilities/shulker_inventory": true,
+      "bucolicraces:damage_taken_modifiers/stabable": true,
+      "bucolicraces:damage_taken_modifiers/poppable": true,
+      "bucolicraces:zmisc_modifiers/toobuoyant/toobuoyant": true,
+      "bucolicraces:zmisc_modifiers/toobuoyant/toobuoyant2": true,
+      "bucolicraces:health_modifiers/fourheart": true,
+      "bucolicraces:diet_modifiers/xamyab/rechargingrest": true,
+      "bucolicraces:diet_modifiers/xamyab/solarrefreshment": true,
+      "bucolicraces:diet_modifiers/miniscule": true,
+      "bucolicraces:diet_modifiers/dietnone": true
+    },
+    "bucolicraces:dryad": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/twoandahalfblockstall": true,
+      "bucolicraces:jumping_modifiers/threetalljump": true,
+      "bucolicraces:damage_taken_modifiers/flamable": true,
+      "bucolicraces:abilities/bonemeal": true,
+      "bucolicraces:armor_modifiers/natural_armor": true,
+      "bucolicraces:zmisc_modifiers/photosynthesis": true,
+      "bucolicraces:skin_modifiers/happy_villager": true,
+      "bucolicraces:status_effect_modifiers/regen": true,
+      "bucolicraces:biome_modifiers/nocold": true,
+      "bucolicraces:status_effect_modifiers/forestregen": true,
+      "bucolicraces:ally_modifiers/passive": true,
+      "bucolicraces:diet_modifiers/honeydiet": true,
+      "bucolicraces:diet_modifiers/honeybuff": true
+    },
+    "bucolicraces:phantom": {
+      "enabled": true,
+      "bucolicraces:zmisc_modifiers/nosleep": true,
+      "bucolicraces:size_modifiers/threequartersize": true,
+      "bucolicraces:abilities/phantomise": true,
+      "bucolicraces:zmisc_modifiers/heliophobia": true,
+      "bucolicraces:skin_modifiers/smoke_particles": true,
+      "bucolicraces:size_modifiers/reset": true,
+      "bucolicraces:skin_modifiers/dark_ghost_skin": true
+    },
+    "bucolicraces:troll": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/fourblockstall": true,
+      "bucolicraces:jumping_modifiers/fourtalljump": true,
+      "bucolicraces:speed_modifiers/fourtallspeed": true,
+      "bucolicraces:health_modifiers/twentyheart": true,
+      "bucolicraces:damage_taken_modifiers/highlyflamable": true,
+      "bucolicraces:diet_modifiers/carnivore": true,
+      "bucolicraces:damage_taken_modifiers/poisonresist": true,
+      "bucolicraces:status_effect_modifiers/greaterregeneration": true,
+      "bucolicraces:skin_modifiers/troll_skin": true,
+      "bucolicraces:zmisc_modifiers/dull": true,
+      "bucolicraces:damage_taken_modifiers/permanentfirevulnerability": true
+    },
+    "bucolicraces:airelemental": {
+      "enabled": true,
+      "bucolicraces:skin_modifiers/airy": true,
+      "bucolicraces:abilities/airshot": true,
+      "bucolicraces:fall_modifiers/slowfall": true,
+      "bucolicraces:diet_modifiers/airelemental/airfood": true,
+      "bucolicraces:diet_modifiers/airelemental/airdiet": true,
+      "bucolicraces:diet_modifiers/airelemental/feather": true
+    },
+    "bucolicraces:automaton": {
+      "enabled": true,
+      "bucolicraces:abilities/automaton/laser": true,
+      "bucolicraces:abilities/automaton/flashbang": true,
+      "bucolicraces:abilities/automaton/overheat": true,
+      "bucolicraces:abilities/automaton/overheattick": true,
+      "bucolicraces:zmisc_modifiers/drillhand": true,
+      "bucolicraces:zmisc_modifiers/nosleep": true,
+      "bucolicraces:diet_modifiers/irongolem/ironnugget": true,
+      "bucolicraces:diet_modifiers/irongolem/rawiron": true,
+      "bucolicraces:diet_modifiers/irongolem/ironingot": true,
+      "bucolicraces:diet_modifiers/irongolem/crushed_iron_ore": true,
+      "bucolicraces:diet_modifiers/irongolem/iron_sheet": true,
+      "bucolicraces:diet_modifiers/irongolem/metal_bar": true,
+      "bucolicraces:diet_modifiers/irondiet": true,
+      "bucolicraces:diet_modifiers/nohunger": true,
+      "bucolicraces:status_effect_modifiers/regen": true,
+      "bucolicraces:status_effect_modifiers/sinking": true
+    },
+    "bucolicraces:poltergeist": {
+      "enabled": true,
+      "bucolicraces:zmisc_modifiers/nosleep": true,
+      "bucolicraces:skin_modifiers/glow": true,
+      "bucolicraces:skin_modifiers/blue_ghost_skin": true,
+      "bucolicraces:abilities/cloaking": true,
+      "bucolicraces:abilities/aoelevitation": true,
+      "bucolicraces:diet_modifiers/miniscule": true,
+      "bucolicraces:diet_modifiers/poltergeist/bone": true,
+      "bucolicraces:diet_modifiers/poltergeist/phantom_membrane": true,
+      "bucolicraces:diet_modifiers/poltergeist/soul_bottle": true,
+      "bucolicraces:diet_modifiers/poltergeist/soul_heart": true,
+      "bucolicraces:diet_modifiers/ghostdiet": true
+    },
+    "bucolicraces:ghoul": {
+      "enabled": true,
+      "bucolicraces:status_effect_modifiers/nightvision": true,
+      "bucolicraces:diet_modifiers/rottenbuff": true,
+      "bucolicraces:diet_modifiers/rottendiet": true,
+      "bucolicraces:diet_modifiers/ghoul/blood_bottle": true,
+      "bucolicraces:diet_modifiers/ghoul/blood_bucket1": true,
+      "bucolicraces:diet_modifiers/ghoul/blood_bucket2": true,
+      "bucolicraces:diet_modifiers/ghoul/blood_slime_balls": true,
+      "bucolicraces:size_modifiers/threequartersize": true,
+      "bucolicraces:status_effect_modifiers/weakeyes": true,
+      "bucolicraces:damage_taken_modifiers/poisonresist": true,
+      "bucolicraces:status_effect_modifiers/fast": true,
+      "bucolicraces:on-hit_modifiers/claws": true,
+      "bucolicraces:damage_taken_modifiers/flamable": true,
+      "bucolicraces:ally_modifiers/trading": true,
+      "bucolicraces:ally_modifiers/irongolemmad": true
+    },
+    "bucolicraces:giant": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/fiveblockstall": true,
+      "bucolicraces:jumping_modifiers/fivetalljump": true,
+      "bucolicraces:health_modifiers/twentyheart": true,
+      "bucolicraces:skills/groundslam": true,
+      "bucolicraces:status_effect_modifiers/strength": true,
+      "bucolicraces:diet_modifiers/giantdiet": true,
+      "bucolicraces:armor_modifiers/natural_armor": true
+    },
+    "bucolicraces:avian": {
+      "enabled": true,
+      "bucolicraces:abilities/birdlaunch": true,
+      "bucolicraces:abilities/launch_high": true,
+      "bucolicraces:skills/elytra": true,
+      "bucolicraces:damage_taken_modifiers/hollowbones": true,
+      "bucolicraces:diet_modifiers/pescatarian": true,
+      "bucolicraces:ally_modifiers/wolfhunt": true,
+      "bucolicraces:on-hit_modifiers/weak": true,
+      "bucolicraces:armor_modifiers/lightweight": true
+    },
+    "bucolicraces:gunling": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/quartersize": true,
+      "bucolicraces:abilities/gunling/gunpowder": true,
+      "bucolicraces:abilities/gunling/gunfuel": true,
+      "bucolicraces:abilities/gunling/gunshot": true,
+      "bucolicraces:abilities/gunling/iron": true,
+      "bucolicraces:abilities/gunling/ironfuel": true,
+      "bucolicraces:ally_modifiers/trading": true,
+      "bucolicraces:diet_modifiers/dietnone": true,
+      "bucolicraces:ally_modifiers/irongolemmad": true,
+      "bucolicraces:status_effect_modifiers/sinking": true,
+      "bucolicraces:damage_taken_modifiers/drown": true,
+      "bucolicraces:health_modifiers/fiveheart": true,
+      "bucolicraces:diet_modifiers/nohunger": true
+    },
+    "bucolicraces:dwarf": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/dwarfwidth": true,
+      "bucolicraces:armor_modifiers/iron": true,
+      "bucolicraces:damage_taken_modifiers/poisonresist": true,
+      "bucolicraces:status_effect_modifiers/haste": true,
+      "bucolicraces:status_effect_modifiers/undergrounder": true,
+      "bucolicraces:speed_modifiers/dwarfspeed": true,
+      "bucolicraces:on-hit_modifiers/axedamage": true,
+      "bucolicraces:zmisc_modifiers/deepsleep": true
+    },
+    "bucolicraces:seraph": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/twoandahalfblockstall": true,
+      "bucolicraces:jumping_modifiers/threetalljump": true,
+      "bucolicraces:speed_modifiers/threetallspeed": true,
+      "bucolicraces:diet_modifiers/vegetarian": true,
+      "bucolicraces:skin_modifiers/aura_particles_electric_spark": true,
+      "bucolicraces:skills/greater_wings": true,
+      "bucolicraces:on-hit_modifiers/holy_smite": true,
+      "bucolicraces:ally_modifiers/villagerdiscount": true,
+      "bucolicraces:ally_modifiers/passive": true
+    },
+    "bucolicraces:elf": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/twoandahalfblockstall": true,
+      "bucolicraces:jumping_modifiers/threetalljump": true,
+      "bucolicraces:speed_modifiers/threetallspeed": true,
+      "bucolicraces:diet_modifiers/weak_stomach": true,
+      "bucolicraces:size_modifiers/elfwidth": true,
+      "bucolicraces:skills/careful": true,
+      "bucolicraces:skills/infinitearrows": true,
+      "bucolicraces:on-hit_modifiers/bowdamage": true
+    },
+    "bucolicraces:demon": {
+      "enabled": true,
+      "bucolicraces:size_modifiers/twoandahalfblockstall": true,
+      "bucolicraces:jumping_modifiers/threetalljump": true,
+      "bucolicraces:speed_modifiers/threetallspeed": true,
+      "bucolicraces:health_modifiers/fifteenheart": true,
+      "bucolicraces:skin_modifiers/light_red_skin": true,
+      "bucolicraces:damage_taken_modifiers/water_vulnerability": true,
+      "bucolicraces:skin_modifiers/flame_particles": true,
+      "bucolicraces:on-hit_modifiers/claws": true,
+      "bucolicraces:damage_taken_modifiers/fire_immunity": true,
+      "bucolicraces:damage_taken_modifiers/poisonresist": true,
+      "bucolicraces:ally_modifiers/trading": true,
+      "bucolicraces:diet_modifiers/dietnone": true,
+      "bucolicraces:on-hit_modifiers/soul_harvest": true,
+      "bucolicraces:ally_modifiers/irongolemmad": true
+    }
+  }
+}

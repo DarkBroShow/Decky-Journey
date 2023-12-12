@@ -1,0 +1,32 @@
+[
+  {
+    "uuid": "0ecee4bd-925f-4a73-ab49-617ec7d07133",
+    "name": "Morvik_SGA",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "06bf82f1-0d40-4cb0-8cda-20c0f56fa5b1",
+    "name": "LightSubZero",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "91ff2fbe-ce3e-4444-a6f5-001fb16266d9",
+    "name": "BroTeamMate",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "fb3ba4aa-0e5c-44ae-a884-45e13ef82d5f",
+    "name": "Morv",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "cbc932b0-9261-4dd2-ac58-b7e2df8c7ab2",
+    "name": "ZombisSGA",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
